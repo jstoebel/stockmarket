@@ -1,0 +1,1 @@
+exports.ViewController = require('./ViewController')
